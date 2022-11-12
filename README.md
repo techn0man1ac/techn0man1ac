@@ -4,7 +4,7 @@
 
 Hello, my name is Sergey Trush. I am a computer systems engineer (my resume can be found [here](https://github.com/techn0man1ac/about/tree/main/MyResume "Link to my resume in 3 languages, in two formats, pdf and docx")).
 
-It turns out that I like to create technologies, "ride" on the crest of a wave of technologies, and you are on a page about my project on the network, called ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "google search page")(tekhnomaniak).
+It turns out that I like to create technologies, "ride" on the crest of a wave of technologies, and you are on a page about my project on the network, called ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "google search page")(tekhnomaniak) or Tech01(short).
 
 ![Techn0man1ac avavtar](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Tech01_Logo3.png)
 
