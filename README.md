@@ -1,12 +1,12 @@
 [![Опис проекту на українській мові](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Ukraine.png)](https://github.com/techn0man1ac/about) [Українська](https://github.com/techn0man1ac/about "Опис проекту на українській мові")  |  [![Project description in english](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/United-Kingdom.png)](https://github.com/techn0man1ac/about/blob/main/eng.md) [English](https://github.com/techn0man1ac/about/blob/main/eng.md "Project description in english")
 
-# About Tech01 project
+# About Techn0man1ac's project
 
 Hello, my name is Sergey Trush. I am a computer systems engineer (my resume can be found [here](https://github.com/techn0man1ac/about/tree/main/MyResume "Link to my resume in 3 languages, in two formats, pdf and docx")).
 
-It turns out that I like to create technologies, "ride" on the crest of a wave of technologies, and you are on a page about my project on the network, called ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "google search page")(tekhnomaniak) or Tech01(short).
+It turns out that I like to create technologies, "ride" on the crest of a wave of technologies, and you are on a page about my project on the network, called ["Techn0man1ac"](https://www.google.com/search?q=Techn0man1ac "google search page")(tekhnomaniak).
 
-![Techn0man1ac avavtar](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/techn0man1ac.jpg)
+![Techn0man1ac avavtar](https://raw.githubusercontent.com/techn0man1ac/about/main/Img/Tech01_Logo3.png)
 
 ## My links on social networks:
 In many platforms, I tried to create a page, a kind of canvas of technology, technique and creativity. Here are the links to the most popular (in my opinion) social networks:
