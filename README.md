@@ -2,7 +2,7 @@ Hello world :) Me on You social networks:
 
 - X.com:
 
-     https://twitter.com/techn0man1ac
+     https://x.com/techn0man1ac
 
 - Facebook:
 
