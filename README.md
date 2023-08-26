@@ -16,3 +16,7 @@ Hello world :) Me on You social networks:
 
      https://www.tiktok.com/@techn0man1ac
 
+- Instagram:
+
+     https://www.instagram.com/techn0man1ac/
+
