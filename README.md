@@ -20,3 +20,7 @@ Hello world :) Me on You social networks:
 
      https://www.instagram.com/techn0man1ac/
 
+- YouTube:
+
+     https://www.youtube.com/@Techn0man1ac/
+
